@@ -44,7 +44,7 @@ Esse é um exemplo de você fazer uma cópia e fazer as devidas configurações 
 
 ### Instalação
 
-Além de você poder testar online clicando [nesse link]() você também pode baixar o projeto e abrir o arquivo index.html.
+Além de você poder testar online clicando [nesse link](https://danielchavesfa.github.io/jsgame-detona-ralph/) você também pode baixar o projeto e abrir o arquivo index.html.
 
 <p  align="right"><small>(<a  href="#top">Voltar ao topo</a>)</small></p>
 
@@ -77,6 +77,7 @@ Você precisa clicar onde as janelas estão quebradas para repara-lás.
 - [ ] Adicionar animações de iterações (martelo, pontos e vida)
 - [ ] Adicionar áudios de iteração
 - [ ] Adicionar debounce nos clicks do mouse, áudio e mudanças de menu.
+- [ ] Fazer refatoração da classe Start.js
 - [ ] Outras...
 
 <p  align="right"><small>(<a  href="#top">Voltar ao topo</a>)</small></p>
